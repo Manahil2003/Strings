@@ -1,2 +1,0 @@
-# Strings
-Functions of String
